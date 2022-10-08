@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed88896f738fa2d4cb215cee888f6af0, type: 3}
+  m_Name: MotherShip
+  m_EditorClassIdentifier: 
+  _Faction: 1
+  _stats:
+    Health: 4
+    Shield: 0
+    Speed: 0
+    AttackPower: 0
+    AttackSpeed: 0
+  Description: 
+  MenuSprite: {fileID: 0}
+  EnemyType: 2
+  Prefab: {fileID: 8740028715228581279, guid: 50543b31aa6c3294c9b7590919c54a83, type: 3}
